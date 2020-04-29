@@ -1,1 +1,5 @@
-print('hello?, world!')
+x = int(input())
+if(x == palindrom)
+    print(true)
+else (x != x[::-1])
+    print(false)

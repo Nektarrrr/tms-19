@@ -1,5 +1,8 @@
-x = int(input())
-if(x == palindrom)
-    print(true)
-else (x != x[::-1])
-    print(false)
+x = input('введите строку')
+if x == x[::-1]:
+    print(x, '- палиндром')
+else:
+    print(x, ' - не палиндром')
+
+
+
